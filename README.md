@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **niralishah01/niralishah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,81 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi👋, I am Nirali Shah🙂💻
+#### Pre-final year student of Computer Engineering at Dharmsinh Desai University
+
+# About Me❤
+My main interest is in web development . I am curious about learning new technologies. I am passionate about working more and more on my web development skills. To improve my development skills I am developing projcts using different frameworks.
+
+- 🔭 I’m currently working on competitive coding and web development <br/>
+- 🌱 I’m currently learning flutter and epxloring about ML.<br/>
+
+
+
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/niralishah01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nirali-shah-05b4451a2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nirali.110/)  -->
+
+
+## skills 
+<!--<code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
+<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
+<code> <img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/></code>
+<code> <img title="java" height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /> </code>
+<code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
+<code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
+<code> <img title="jquery" height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>  
+<code> <img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code> 
+<!--<code> <img title="Angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> <code> <br/>--
+<code> <img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> <code>
+<code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
+<code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>-->
+<img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> |
+<img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> |
+<img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/> |
+<img title="java" height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /><br/>
+<img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> |
+<img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> |
+<img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/> |
+<img title="jquery" height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> |
+<img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/> <br/>
+<img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> |
+<img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/> |
+<img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <!--<code> <img title="Python" height="50" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> </code>
+  <code> <img title="java" height="50" width="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"/> </code>  
+  <code> <img title="Django" height="50" width="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
+  <code> <img title="dotnet" height="50" width="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/> </code>
+  <code> <img title="asp" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" /> </code>
+  <code> <img title="php" height="50" width="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/> </code>
+  <code> <img title="git" height="50" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> </code>-->  
+ 
+  <!--<code> <img title="jquery" height="50" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>
+  <code> <img title="jquery" height="50" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>  
+  <code> <img title="javascript" height="50" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/> </code>
+  <code> <img title="css" height="50" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/> </code>
+  <code> <img title="linux" height="50" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/> </code>
+   </code>-->
+  
+  
+  
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats ##
+![Nirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=niralishah01&show_icons=true)  
+
+## Most Used Languages ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niralishah01)](https://github.com/anuraghazra/github-readme-stats)
+
+## Competitive Coding Profile ##
+
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/niralipshah/)	
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/nirali110/)
+
+## 📫 How to reach me : ##
+<b> 💌Mail me [niralipshah2000@gmail.com]()</b><br/>
+<b> 📞Call ME [+917043132149]()</b><br/>
+
+## <img src="https://i.stack.imgur.com/0Zjxw.png" width="30" height="30"> How to connect with me: ##
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/niralishah01)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nirali-shah-05b4451a2/)
+
+###  Profile Viewers: ###
+![Profile views](https://gpvc.arturio.dev/niralishah01)  
+
