@@ -28,19 +28,10 @@ My main interest is in web development . I am curious about learning new technol
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/niralishah01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nirali-shah-05b4451a2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nirali.110/)  -->
 
 
-## skills 
-<!--<code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
-<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
-<code> <img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/></code>
-<code> <img title="java" height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /> </code>
-<code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
-<code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
-<code> <img title="jquery" height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>  
-<code> <img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code> 
-<!--<code> <img title="Angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> <code> <br/>--
-<code> <img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> <code>
-<code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
-<code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>-->
+## Skills 
+
+<!--<code> <img title="Angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> <code> <br/>-->
+
 <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> |
 <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> |
 <img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/> |
@@ -53,20 +44,6 @@ My main interest is in web development . I am curious about learning new technol
 <img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> |
 <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/> |
 <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-  <!--<code> <img title="Python" height="50" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> </code>
-  <code> <img title="java" height="50" width="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"/> </code>  
-  <code> <img title="Django" height="50" width="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
-  <code> <img title="dotnet" height="50" width="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/> </code>
-  <code> <img title="asp" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" /> </code>
-  <code> <img title="php" height="50" width="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/> </code>
-  <code> <img title="git" height="50" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> </code>-->  
- 
-  <!--<code> <img title="jquery" height="50" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>
-  <code> <img title="jquery" height="50" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"/> </code>  
-  <code> <img title="javascript" height="50" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/> </code>
-  <code> <img title="css" height="50" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/> </code>
-  <code> <img title="linux" height="50" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/> </code>
-   </code>-->
   
   
   
@@ -78,7 +55,7 @@ My main interest is in web development . I am curious about learning new technol
 
 ## Competitive Coding Profile ##
 
-[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/niralipshah/)	
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/niralipshah2000/)	
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/nirali110/)
 
 ## 📫 How to reach me : ##
