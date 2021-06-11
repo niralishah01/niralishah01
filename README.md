@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # About Me❤
 My main interest is in web development . I am curious about learning new technologies. I am passionate about working more and more on my web development skills. To improve my development skills I am developing projcts using different frameworks.
 
-- 🔭 I’m currently working on competitive coding and web development <br/>
+- 🔭 I’m currently working on problem solving web development <br/>
 - 🌱 I’m currently learning flutter and epxloring about ML.<br/>
 
 
@@ -66,6 +66,6 @@ My main interest is in web development . I am curious about learning new technol
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/niralishah01)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nirali-shah-05b4451a2/)
 
-###  Profile Viewers: ###
-![Profile views](https://gpvc.arturio.dev/niralishah01)  
+<!-- ###  Profile Viewers: ###
+![Profile views](https://gpvc.arturio.dev/niralishah01)   -->
 
