@@ -62,7 +62,7 @@ My main interest is in web development . I am curious about learning new technol
 ## 📫 Reach to me : ##
 <b>📩 [niralipshah2000@gmail.com]()</b><br/>
 <b>📞 [+91 7043132149]()</b><br/>
-<a href="niralipshah2000@gmail.com">Email</a>
+<!--[![Gmail](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:niralipshah2000@gmail.com)-->
 ## <img src="https://i.stack.imgur.com/0Zjxw.png" width="30" height="30"> Connect with me: ##
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/niralishah01)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nirali-shah-05b4451a2/)
